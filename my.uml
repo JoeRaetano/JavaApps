@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="__yOEoDXZEeO53al31VlpCg" name="NewModel">
+  <packageImport xmi:id="_F23SMDXbEeO53al31VlpCg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_60GvYDXaEeO53al31VlpCg" name="Class1">
+    <ownedOperation xmi:id="_HSj0IDXbEeO53al31VlpCg" name=""/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_OfMZ8DXbEeO53al31VlpCg" name="GradeBook">
+    <ownedComment xmi:id="_khpkgDXbEeO53al31VlpCg" annotatedElement="_OfMZ8DXbEeO53al31VlpCg">
+      <body>Empty comment</body>
+    </ownedComment>
+    <ownedAttribute xmi:id="_Q9HN4DXbEeO53al31VlpCg" name="displayMessage"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_mziuoDXbEeO53al31VlpCg" name="GradeBook"/>
+</uml:Model>
